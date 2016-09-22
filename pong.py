@@ -1,3 +1,6 @@
+#Run the code in http://www.codeskulptor.org/
+# simpleGui module was an extraction and built into codeskulptor.
+
 import simplegui
 import random
 
