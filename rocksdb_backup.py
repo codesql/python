@@ -25,3 +25,10 @@ def main(argv):
          assert False, "Invalid Options"
 if __name__ == "__main__":
    main(sys.argv[1:])
+
+
+
+--Output--
+python rocksdb_backup.py -d test.db
+Database to be backed up test.db
+Database  test.db  has been successfully backed up  /home/kl/rocksdb/pyrocks_test /backups.bk
